@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FundPresenter.routeToFundDetail(segue:indexPath:):FundPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFund">
+            </PersistentString>
+            <PersistentString
+               value = "self.funds[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FundPresenter.handleFundPurchaseAndUpdatePersistence():FundPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFund">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
